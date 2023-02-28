@@ -6,6 +6,9 @@
 
 ## Acá tiene que escribir Fio:
 
+return hola
+return que tal
+
 ## Acá tiene que escribir Marce:
 
 ## Acá tiene que escribir Daisy:
